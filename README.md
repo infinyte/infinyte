@@ -48,7 +48,8 @@ I design and build enterprise-grade systems at the intersection of cloud archite
     </td>
     <td width="50%">
       <strong>LOCATION</strong><br/>
-      Orlando, Florida
+      Orlando, Florida<br/>
+      <sub>&nbsp;</sub>
     </td>
   </tr>
 </table>
