@@ -9,7 +9,7 @@
 
 <!-- Animated Subtitle cycling specializations -->
 <a href="https://github.com/infinyte">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&lines=.NET+%7C+Azure+Cloud+%7C+Zero+Trust+Architecture;Machine+Learning+%7C+Computer+Vision+%7C+AI+Agents;Domain%2DDriven+Design+%7C+Enterprise+Integration+%7C+Distributed+Systems;U.S.+Army+Veteran+%E2%80%93+3rd+Infantry+Division+%E2%80%93+OIF" alt="Specializations" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=850&lines=.NET+%7C+Azure+Cloud+%7C+Zero+Trust+Architecture;Machine+Learning+%7C+Computer+Vision+%7C+AI+Agents;Domain-Driven+Design+%7C+Enterprise+Integration+%7C+Distributed+Systems;U.S.+Army+Veteran+%E2%80%93+3rd+Infantry+Division+%E2%80%93+OIF" alt="Specializations" />
 </a>
 
 <br/><br/>
