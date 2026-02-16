@@ -221,12 +221,12 @@ I design and build enterprise-grade systems at the intersection of cloud archite
 <div align="center">
   <picture>
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=infinyte&theme=github-dark-blue&hide_border=true&border_radius=10"
+      srcset="https://streak-stats.demolab.com/?user=infinyte&theme=github-dark-blue&hide_border=true&border_radius=10"
       media="(prefers-color-scheme: dark)" />
     <source
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=infinyte&theme=default&hide_border=true&border_radius=10"
+      srcset="https://streak-stats.demolab.com/?user=infinyte&theme=default&hide_border=true&border_radius=10"
       media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinyte&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=infinyte&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak" />
   </picture>
 </div>
 
