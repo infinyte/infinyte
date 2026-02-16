@@ -36,8 +36,8 @@ I design and build enterprise-grade systems at the intersection of cloud archite
     </td>
     <td width="50%">
       <strong>EDUCATION</strong><br/>
-      Graduate Studies, Computer Science (ML/CV)<br/>
-      <sub>B.S. Computer Science & Pure Mathematics · UCF</sub>
+      Graduate Studies, Computer Science<br/>
+      <sub>B.S. Computer Science & Pure Math · UCF</sub>
     </td>
   </tr>
   <tr>
