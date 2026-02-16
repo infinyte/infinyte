@@ -1,0 +1,55 @@
+# ==============================================================================
+# GitHub Actions Workflow: Snake Contribution Animation
+# ==============================================================================
+# Generates an animated snake that eats your GitHub contribution graph.
+# The snake SVGs are committed to the 'output' branch and referenced in README.md.
+#
+# SETUP:
+#   1. Place this file at: .github/workflows/snake.yml in your profile repo
+#   2. Go to repo Settings → Actions → General
+#   3. Under "Workflow permissions", select "Read and write permissions"
+#   4. Run the workflow manually the first time (Actions tab → Run workflow)
+#   5. After that, it auto-runs every 12 hours
+# ==============================================================================
+
+name: Generate Snake Animation
+
+on:
+  # Auto-run every 12 hours to keep the animation current
+  schedule:
+    - cron: "0 */12 * * *"
+
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+  # Regenerate on push to main
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # Step 1: Generate the snake SVGs from contribution graph
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 2: Push generated SVGs to the 'output' branch
+      - name: Deploy to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update snake animation [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
