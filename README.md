@@ -25,16 +25,42 @@
 
 ## About Me
 
-| | |
-|:---|:---|
-| **Role** | Software Architect |
-| **Company** | Infinyte Software Solutions LLC |
-| **Education** | M.S. Computer Science (ML/CV) · B.S. Pure Mathematics |
-| **Military** | U.S. Army · 3rd Infantry Division · Operation Iraqi Freedom |
-| **Location** | Orlando, Florida |
-| **Focus** | Enterprise Architecture · Azure Cloud · AI/ML · Zero Trust |
-
 I design and build enterprise-grade systems at the intersection of cloud architecture, AI, and security. With 20+ years of experience spanning .NET ecosystems, Azure services, and domain-driven design, I specialize in transforming complex business requirements into resilient, scalable software. My background in pure mathematics and graduate work in machine learning & computer vision gives me a unique lens on both the theoretical foundations and practical engineering of intelligent systems.
+
+<table>
+  <tr>
+    <td width="50%">
+      <strong>ROLE</strong><br/>
+      Software Architect<br/>
+      <sub>Infinyte Software Solutions LLC</sub>
+    </td>
+    <td width="50%">
+      <strong>EDUCATION</strong><br/>
+      Graduate Studies, Computer Science (ML/CV)<br/>
+      <sub>B.S. Computer Science & Pure Mathematics · UCF</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <strong>MILITARY</strong><br/>
+      U.S. Army Veteran<br/>
+      <sub>3rd Infantry Division · Operation Iraqi Freedom</sub>
+    </td>
+    <td width="50%">
+      <strong>LOCATION</strong><br/>
+      Orlando, Florida
+    </td>
+  </tr>
+</table>
+
+**Core Focus**
+
+![Enterprise Architecture](https://img.shields.io/badge/Enterprise_Architecture-0078D4?style=flat-square)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AI / ML](https://img.shields.io/badge/AI_/_Machine_Learning-742774?style=flat-square)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust_Security-FF4500?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-2E86C1?style=flat-square)
+![Domain-Driven Design](https://img.shields.io/badge/Domain--Driven_Design-333333?style=flat-square)
 
 ---
 
