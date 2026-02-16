@@ -154,6 +154,7 @@ I design and build enterprise-grade systems at the intersection of cloud archite
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[QuantAI-Roadmap](https://github.com/infinyte/QuantAI-Roadmap)** | Comprehensive learning roadmap for AI-driven quantitative trading — covering ML models, market data pipelines, and algorithmic strategy development. | `AI/ML` `Quant Finance` `Strategy` |
+| **[portfolio-showcase-generator](https://github.com/infinyte/portfolio-showcase-generator)** | Claude AI skill that transforms technical projects into compelling portfolio materials — executive summaries, STAR interview stories, architecture diagrams, and ATS-optimized resume bullets. | `Claude AI` `Skill` `Portfolio` |
 | **[mcp-server](https://github.com/infinyte/mcp-server)** | Model Context Protocol server implementation for LLM tool integration, enabling AI agents to interact with external services and data sources. | `JavaScript` `MCP` `AI Agents` |
 | **[Infinyte-OpenVoice](https://github.com/infinyte/Infinyte-OpenVoice)** | Fork and exploration of MIT's OpenVoice — instant voice cloning audio foundation model. Investigating enterprise voice AI integration patterns. | `Python` `Voice AI` `ML` |
 
