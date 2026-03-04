@@ -166,6 +166,7 @@ I design and build enterprise-grade systems at the intersection of cloud archite
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[Azure-Func-ee](https://github.com/infinyte/Azure-Func-ee)** | Azure Functions implementation demonstrating serverless compute patterns for enterprise event-driven architectures. | `C#` `Azure Functions` `Serverless` |
+| **[Docflow](https://github.com/infinyte/docflow)** | Intelligent document processing and workflow automation — orchestrating document ingestion, transformation, and routing across enterprise systems. | `C#` `Azure` `Workflow Automation` |
 | **[TaskFlow-Architect](https://github.com/infinyte/TaskFlow-Architect)** | API-based task management system built with clean architecture principles — designed as a reference implementation for structured backend design. | `Python` `REST API` `Architecture` |
 | **[pact-mock_APIM-service](https://github.com/infinyte/pact-mock_APIM-service)** | Mock Azure API Management service for contract testing with Pact, enabling reliable consumer-driven contract verification in microservice environments. | `Azure APIM` `Pact` `Testing` |
 
@@ -189,6 +190,7 @@ I design and build enterprise-grade systems at the intersection of cloud archite
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[ISS.ASPNetCore.Architecture](https://github.com/infinyte/ISS.ASPNetCore.Architecture)** | ASP.NET Core architecture patterns — reference implementations for clean architecture, CQRS, and DDD in enterprise .NET systems. | `.NET` `Clean Architecture` `DDD` |
+| **[Pattern-Mirror](https://infinyte.github.io/Pattern-Mirror/)** | Four-part educational series mapping 12 infrastructure patterns to their application-level counterparts — tracing enterprise architecture decisions back to their underlying mathematical foundations. | `Architecture` `Education` `Distributed Systems` |
 | **[PduTools](https://github.com/infinyte/PduTools)** | Distributed Interactive Simulation (DIS) protocol tools — supporting DoD modeling and simulation interoperability standards. | `Java` `DIS Protocol` `M&S` |
 | **[mesh](https://github.com/infinyte/mesh)** | Tools for building distributed applications — exploring service mesh patterns and inter-service communication. | `Distributed Systems` `Mesh` |
 
