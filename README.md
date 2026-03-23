@@ -103,32 +103,18 @@ I am a Software Architect at Infinyte Software Solutions LLC, focused on buildin
 
 ## Featured Projects
 
-### AI/ML & Intelligent Systems
-
-| Project | Impact | Tech |
-|---------|--------|------|
-| **[QuantAI-Roadmap](https://github.com/infinyte/QuantAI-Roadmap)** | Structured AI-driven quant trading curriculum that maps skills from foundations to deployable strategy design. | `AI/ML` `Quant Finance` `Strategy` |
-| **[mcp-server](https://github.com/infinyte/mcp-server)** | Model Context Protocol server for tool-enabled agents, accelerating integration between LLM workflows and external systems. | `JavaScript` `MCP` `AI Agents` |
-
 ### Cloud Architecture & Enterprise Delivery
 
 | Project | Impact | Tech |
 |---------|--------|------|
 | **[Azure-Func-ee](https://github.com/infinyte/Azure-Func-ee)** | Enterprise-focused Azure Functions reference for event-driven serverless workloads and production-ready cloud patterns. | `C#` `Azure Functions` `Serverless` |
 | **[Docflow](https://github.com/infinyte/docflow)** | Intelligent document orchestration platform that streamlines ingestion, transformation, and process routing across business systems. | `C#` `Azure` `Workflow Automation` |
-
-### Data Streaming & Integration
-
-| Project | Impact | Tech |
-|---------|--------|------|
-| **[KafkaKustoConnector](https://github.com/infinyte/KafkaKustoConnector)** | Real-time Kafka to Azure Data Explorer ingestion pipeline for high-throughput analytics and operational visibility. | `C#` `Kafka` `Azure Data Explorer` |
-| **[azure-event-hubs-for-kafka](https://github.com/infinyte/azure-event-hubs-for-kafka)** | Bridge pattern for Kafka clients on Azure Event Hubs, reducing migration friction for cloud-native messaging adoption. | `Azure` `Kafka` `Event Hubs` |
+| **[TaskFlow-Architect](https://github.com/infinyte/TaskFlow-Architect)** | Clean-architecture task management API demonstrating structured domain boundaries, maintainable service design, and production-ready backend patterns. | `Python` `REST API` `Architecture` |
 
 ### Architecture References & Learning
 
 | Project | Impact | Tech |
 |---------|--------|------|
-| **[ISS.ASPNetCore.Architecture](https://github.com/infinyte/ISS.ASPNetCore.Architecture)** | Practical .NET architecture reference for clean architecture, CQRS, and domain-driven design in enterprise services. | `.NET` `Clean Architecture` `DDD` |
 | **[Pattern-Mirror](https://infinyte.github.io/Pattern-Mirror/)** | Educational series connecting infrastructure patterns to application architecture decisions through systems-thinking examples. | `Architecture` `Education` `Distributed Systems` |
 
 ---
