@@ -109,13 +109,13 @@ I am a Software Architect at Infinyte Software Solutions LLC, focused on buildin
 |---------|--------|------|
 | **[Azure-Func-ee](https://github.com/infinyte/Azure-Func-ee)** | Enterprise-focused Azure Functions reference for event-driven serverless workloads and production-ready cloud patterns. | `C#` `Azure Functions` `Serverless` |
 | **[Docflow](https://github.com/infinyte/docflow)** | Intelligent document orchestration platform that streamlines ingestion, transformation, and process routing across business systems. | `C#` `Azure` `Workflow Automation` |
-| **[TaskFlow-Architect](https://github.com/infinyte/TaskFlow-Architect)** | Clean-architecture task management API demonstrating structured domain boundaries, maintainable service design, and production-ready backend patterns. | `Python` `REST API` `Architecture` |
 
 ### Architecture References & Learning
 
 | Project | Impact | Tech |
 |---------|--------|------|
 | **[Pattern-Mirror](https://infinyte.github.io/Pattern-Mirror/)** | Educational series connecting infrastructure patterns to application architecture decisions through systems-thinking examples. | `Architecture` `Education` `Distributed Systems` |
+| **[Engineering-at-AI-Speed](https://infinyte.github.io/Engineering-at-AI-Speed/)** | Implementation became cheap before alignment did. A series about engineering in the age of AI. | `Architecture` `Education` `Distributed Systems` `AI / Agentic Development`    |
 
 ---
 
